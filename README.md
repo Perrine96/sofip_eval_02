@@ -51,9 +51,12 @@ Choisir l'une des méthodes suivantes :
 
 #### 🔄 Gérer les branches
 Ouvrir un terminal dans le dossier du projet
-* __Récupérer toutes les branches distantes__ : ```git fetch --all```
-* __Voir la liste des branches distantes__ : ```git branch -r```
-* __Récupérer une branche spécifique__ : ```git checkout -b nom-de-la-branche origin/nom-de-la-branche```
+* Récupérer notre branche perso :
+    * __Voir la liste des branches distantes__ : ```git branch -r```
+    * __Récupérer une branche spécifique__ : ```git checkout -b nom-de-la-branche origin/nom-de-la-branche```
+* Merger la branche main avec notre branche perso :
+    * __Se mettre sur sa branche perso__ : ```git checkout nom-de-la-branche```
+    * __Récupérer la branche principale__ : ```git merge main```
 
 
 ---
@@ -63,7 +66,7 @@ Ouvrir un terminal dans le dossier du projet
 Cochez les compétences :  
 
 * [x] Git/GitHub  
-* [ ] Veille techno  
+* [x] Veille techno  
 * [ ] Figma (zoning, wireframes, maquettes, prototypes, responsive design)  
 * [ ] RGPD  
 * [ ] RGAA  
