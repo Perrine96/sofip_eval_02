@@ -19,5 +19,9 @@ Prise de contact.
 git clone https://github.com/Perrine96/sofip_eval_02.git (HTTPS) 
 ou git clone git@github.com:Perrine96/sofip_eval_02.git (SSH)
 
+Pour récupérer votre branche :
+git fetch --all
+git checkout -b nom-de-la-branche origin/nom-de-la-branche
+
 ## FOAD
 Renvoyer individuellement le lien du repo github sur un PDF ou fichier md. zippé. 
