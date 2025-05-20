@@ -9,7 +9,7 @@ Créer un site pour une crèche **"Choupissons"**.
 - **Navigation** :  
   - Présentation de la crèche  
   - Localisation des différentes crèches  
-  - "Mode d'emploi" d'inscription destiné aux parents  
+  - "Mode d'emploi" d'inscription destiné aux parents
   - Contact  
   - Actualités  
   - Recrutement  
